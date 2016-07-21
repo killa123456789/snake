@@ -8,7 +8,7 @@ import java.io.FileInputStream;
 import java.io.IOException;
 
 public enum Sprite {
-    BODY("circle"), CHERRIES("cherries");
+    BODY("rectangle"), CHERRIES("cherries");
 
     private Texture texture;
 
